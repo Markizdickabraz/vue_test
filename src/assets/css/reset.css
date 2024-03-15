@@ -111,10 +111,6 @@ body {
     background: url('@/assets/img/h_background.png') top no-repeat;
     background-color: #26335d;
     background-size: contain;
-
-    @media screen and (min-width: 430px) {
-        background-size: cover;
-    }
 }
 
 ol,

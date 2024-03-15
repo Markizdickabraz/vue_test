@@ -48,6 +48,7 @@ export default {
     display: flex;
     gap: 10px;
     flex-direction: column;
+    padding-bottom: 80px;
 }
 
 .card__container {
